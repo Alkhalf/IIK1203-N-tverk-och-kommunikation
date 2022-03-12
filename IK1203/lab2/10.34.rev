@@ -1,0 +1,17 @@
+$ttl 3600
+34.10.in-addr.arpa.	IN	SOA	ns.group34.lab. root.group34.lab. (
+			1644775186
+			3600
+			600
+			1209600
+			3600 )
+34.10.in-addr.arpa.	IN	NS	ns.group34.lab.
+1.1.34.10.in-addr.arpa.	IN	PTR	gw-server.group34.lab.
+2.1.34.10.in-addr.arpa.	IN	PTR	ns.group34.lab.
+34.1.34.10.in-addr.arpa.	IN	PTR	www.group34.lab.
+1.2.34.10.in-addr.arpa.	IN	PTR	r1.group34.lab.
+2.2.34.10.in-addr.arpa.	IN	PTR	r2.group34.lab.
+1.3.34.10.in-addr.arpa.	IN	PTR	gw-client.group34.lab.
+11.3.34.10.in-addr.arpa.	IN	PTR	client1.group34.lab.
+12.3.34.10.in-addr.arpa.	IN	PTR	client2.group34.lab.
+13.3.34.10.in-addr.arpa.	IN	PTR	client3.group34.lab.
