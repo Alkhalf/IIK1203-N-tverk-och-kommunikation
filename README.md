@@ -1,4 +1,4 @@
-# IK1203-N-tverk-och-kommunikation
+# IK1203-Natverk-och-kommunikation
 
 # Kursinnehåll
 Flödesreglering och felövervakning: stop&wait och sliding window, feldetektering och -hantering, felrättande koder, omsändning (ARQ).
